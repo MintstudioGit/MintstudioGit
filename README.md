@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Disciplined enough to listen to an entire playlist! 😄🎵
 
-# [Visit Mint Studio: A Passion Project](https://mint-waitlist.framer.website)
+# [Visit Mastermint: A Passion Project](https://mint-waitlist.framer.website)
 
 
 Mint Studio, a passion project of mine aimed at changing the music creation space through collaboration.
