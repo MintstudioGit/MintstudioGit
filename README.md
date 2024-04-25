@@ -26,12 +26,12 @@ User-Friendly Interface: Our platform offers an intuitive and user-friendly inte
  
 # Get Involved
 
-Join us on our journey to reshape the music industry! Visit Mastermint to learn more and join our waitlist for early access.
+Join us on our journey to reshape the music industry! To build this together write to admin@mastermint.studio or to use it one we launch visit Mastermint to learn more and join our waitlist for early access.
 
-# Connect with Us
+# Connect 
 
 GitHub
-LinkedIn
+[LinkedIn]https://www.linkedin.com/in/alain-kolomoni/
 Twitter
 
 Let's make music creation smarter, together.
