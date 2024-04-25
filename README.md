@@ -10,7 +10,7 @@
 
 
 
-![passion project] (!description of image)
+![passion project] ([description of image](https://mint-waitlist.framer.website)
 
 
 
