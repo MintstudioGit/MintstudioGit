@@ -7,7 +7,10 @@
 - 📫 How to reach me admin@mastermint.studio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Disciplined enough to listen to an entire playlist! 😄🎵
-(url to image)(https://framerusercontent.com/assets/nnfiK1BL2D3EIHChFNn0PvET40.mp4)
+
+
+
+![passion project] (!description of image)
 
 
 
