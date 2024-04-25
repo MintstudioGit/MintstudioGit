@@ -8,9 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Disciplined enough to listen to an entire playlist! 😄🎵
 
-
-
-![passion project] ([description of image](https://mint-waitlist.framer.website)
+[link text](https://mint-waitlist.framer.website)
 
 
 
