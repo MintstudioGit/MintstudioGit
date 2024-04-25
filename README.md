@@ -31,7 +31,7 @@ Join us on our journey to reshape the music industry! To build this together wri
 # Connect 
 
 GitHub
-[LinkedIn]https://w(ww.linkedin.com/in/alain-kolomoni/)
+[LinkedIn](https://www.linkedin.com/in/alain-kolomoni/)
 Twitter
 
 Let's make music creation smarter, together.
