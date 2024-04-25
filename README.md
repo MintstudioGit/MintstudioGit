@@ -8,6 +8,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Disciplined enough to listen to an entire playlist! 😄🎵
 
+![passion project]([url to image](https://framerusercontent.com/assets/nnfiK1BL2D3EIHChFNn0PvET40.mp4))
+
+
+
 <!---
 MintstudioGit/MintstudioGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
