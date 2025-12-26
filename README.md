@@ -11,7 +11,6 @@
 # [Visit Mastermint: A Passion Project](https://mint-waitlist.framer.website)
 
 
-Mint Studio, a passion project of mine and [Phil](https://www.linkedin.com/in/phbutterworth/) aimed at changing the music creation space through collaboration.
 
 # About Mastermint
 
